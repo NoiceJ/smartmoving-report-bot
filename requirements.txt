@@ -1,1 +1,6 @@
-
+flask
+pandas
+openpyxl
+weasyprint
+requests
+gunicorn
